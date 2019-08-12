@@ -1,0 +1,22 @@
+RewriteBase /Trade2019/
+
+Options +FollowSymlinks
+RewriteEngine on
+#rewritecond %{http_host} ^tradeactivities.com [nc]
+#rewriterule ^(.*)$ https://www.tradeactivities.com/$1 [r=301,nc]
+
+#No cambia nada de ese directorio
+RewriteRule ^_admin/.*$ - [PT]
+
+#PRODUCTOS
+RewriteRule ^(.+)/(.+).html$ producto-detalle.php?prod=$2
+RewriteRule ^(.+)/(.+)/(.+).html$ producto-detalle.php?prod=$3
+RewriteRule ^(.+)/(.+)/(.+)/(.+).html$ producto-detalle.php?prod=$4
+
+#CATEGORIAS
+RewriteRule ^(.+)/$ categoria.php?cat=$1
+RewriteRule ^(.+)/(.+)/$ categoria.php?cat=$2
+RewriteRule ^(.+)/(.+)/(.+)/$ categoria.php?cat=$3
+
+#  ^ Comienzo de la ruta.
+#  $ final de la ruta.
