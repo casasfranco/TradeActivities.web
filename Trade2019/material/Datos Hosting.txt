@@ -1,0 +1,36 @@
+ua.siteground.es
+usuario: casassfranco@gmail.com 
+pass: FORMULA2011formula2011
+
+
+
+Host name/ servidor:  ns1.us196.siteground.us
+
+database name: tradeact_trade2019
+
+data base username: tradeact_casasf
+
+data base username passw: FORMULA2011formula2011
+
+
+
+
+
+
+FTP: 
+ftp.tradeactivities.com
+o
+109.73.231.77
+
+ <User> franco@tradeactivities.com
+Formula2011
+<Port> 21
+
+
+
+
+           
+
+
+usuario para carpeta admin: casasfadmin
+Password para carpeta admin: ADMINISTRACIONtrade

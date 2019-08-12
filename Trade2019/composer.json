@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mercadopago/dx-php": "dev-master",
+        "afipsdk/afip.php": "^0.6.0"
+    }
+}

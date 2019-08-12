@@ -1,0 +1,28 @@
+[18-May-2019 11:40:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 2
+[18-May-2019 11:40:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 2
+[18-May-2019 11:42:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 2
+[18-May-2019 11:54:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 13
+[18-May-2019 12:47:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 9
+[18-May-2019 12:51:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 17
+[18-May-2019 18:41:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function Len() in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tradeact/public_html/UpdateNik/UpdateNikTrade.php on line 13
